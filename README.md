@@ -1,6 +1,6 @@
 ## 🧑Sobre mim: 
 <div>
-Desenvolvedor Android apaixonado por tecnologia!</br>
+Desenvolvedor Android Jr apaixonado por tecnologia!</br>
 Desenvolvendo aplicativos  com  Java e  Kotlin, comecei a programar em casa.</br>
 Tenho muito prazer em desenvolver aplicativos e assim ajudar as outras pessoas também.</br>
 Fui convidado pela Universidade São Judas Tadeu onde eu me formei em sistema de informação, para dar uma palestra com o tema Desenvolva do ZERO o seu primeiro aplicativo mobile nativo.
